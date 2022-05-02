@@ -1,0 +1,24 @@
+{
+  "name": "multi-blind-test-maker",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "vue": "^3.0.5",
+    "vue-youtube": "^1.4.0",
+    "vue3-youtube": "^0.1.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "less": "^4.1.0",
+    "css-loader": "^5.2.4",
+    "less-loader": "^8.1.1",
+    "vite": "^2.2.3"
+  }
+}
