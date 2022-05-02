@@ -6,11 +6,4 @@ Make easily Multi-Blind-Test to your Friends !
 
 ---
 
-`npm install`
-
-`npm run dev`
-
-or 
-
-`npm run build`
-
+• https://blyydev.github.io/multiblindtest-maker/dist/
